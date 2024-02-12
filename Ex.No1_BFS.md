@@ -42,11 +42,11 @@ bfs(visited, graph, '5')    # function calling
 ```
 
 ### Output:
-```
+
 ![Screenshot 2024-02-12 161720](https://github.com/AfzaraThagsin/AI_Lab_2023-24/assets/127172501/48c700b9-89de-449c-b70a-ca630864c16c)
 
 
-```
+
 
 
 ### Result:
