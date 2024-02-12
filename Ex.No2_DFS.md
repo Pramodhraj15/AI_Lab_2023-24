@@ -43,10 +43,10 @@ dfs(visited, graph, '5')
 
 
 ### Output:
-```
+
 ![image](https://github.com/AfzaraThagsin/AI_Lab_2023-24/assets/127172501/d4c00ea2-37de-44aa-b120-9c8422e2161d)
 
-```
+
 
 
 ### Result:
